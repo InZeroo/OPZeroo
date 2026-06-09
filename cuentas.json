@@ -1,13 +1,13 @@
 {
   "cuentas": [
     {
-      "usuario": "premium",
-      "clave": "premium123",
+      "usuario": "admin",
+      "clave": "1234",
       "tipo": "premium"
     },
     {
-      "usuario": "free",
-      "clave": "free123",
+      "usuario": "admin2",
+      "clave": "1234",
       "tipo": "free"
     }
   ]
