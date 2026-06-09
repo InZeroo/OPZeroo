@@ -1,11 +1,14 @@
 {
-  "cuenta": "admin",
-  "pass": "1234",
-  "tipo": "premium"
-}
-
-{
-  "cuenta": "admin2",
-  "pass": "1234",
-  "tipo": "Free"
+  "cuentas": [
+    {
+      "usuario": "premium",
+      "clave": "premium123",
+      "tipo": "premium"
+    },
+    {
+      "usuario": "free",
+      "clave": "free123",
+      "tipo": "free"
+    }
+  ]
 }
