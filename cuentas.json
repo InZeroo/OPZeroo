@@ -6,7 +6,7 @@
       "tipo": "premium"
     },
     {
-      "usuario": "admin2",
+      "usuario": "user",
       "clave": "1234",
       "tipo": "free"
     }
